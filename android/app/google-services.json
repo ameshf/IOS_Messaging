@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "991814016365",
+    "project_id": "messaging-app-a46b3",
+    "storage_bucket": "messaging-app-a46b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991814016365:android:f530841c89be38d040ce64",
+        "android_client_info": {
+          "package_name": "com.amesh.messaaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991814016365-c7ol3fdl0giau8q6qf9j2hnm3kdoln79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj9rP-zsiTTPaI7fnrvIimCHI4n8C5FUs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991814016365-c7ol3fdl0giau8q6qf9j2hnm3kdoln79.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991814016365-j7djul6qn6sht245vps8biugtsp50mtf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
