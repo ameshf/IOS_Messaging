@@ -1,4 +1,4 @@
-# messaaging
+# messaging
 
 A new Flutter project.
 
